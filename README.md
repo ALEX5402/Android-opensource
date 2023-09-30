@@ -2,7 +2,7 @@
 
 * The biggest pain point of github is that you can’t use it when you get an open source project. Various errors are reported when importing, and the readme cannot be understood. I recommend a link to everyone. All projects have been tested by myself and there are no problems, and all are configured with detailed steps and supporting videos. Commentary, everyone is welcome to star.
   
-* Project address: [https://github.com/open-android/Android](https://github.com/open-android/Android)
+* Project address: [https://github.com/open-android/Android](https://github.com/ALEX5402/Android-opensource)
 
 * Welcome to follow the WeChat official account, and we will recommend excellent blog posts, open source projects, and videos to you in the long term.
 
